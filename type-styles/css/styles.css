@@ -1,0 +1,72 @@
+h1{
+    font-family: Raleway;
+    font-size: 50pt;
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: Raleway; 
+    font-size: 30px; 
+    line-height: 1; 
+}
+html {
+    font-family: Arial;
+}
+h2 {
+    font-weight: bold;
+    color: white;
+}
+h3 {
+    font-weight: lighter;
+    font-size: 12px;
+    color: whitesmoke
+}
+body {
+    margin: 7%;
+}
+section {
+    margin: 10pt;
+}
+.kim {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.rob {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+.a {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: .3em;
+}
+.b {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -.06em;
+}
+.c {
+ text-decoration: underline;
+}
+.d {
+    text-decoration: line-through;
+   }
+.e {
+    text-decoration: overline;
+}
+.f {
+    text-transform: uppercase;
+}
+.g {
+    text-transform: lowercase;
+}
+.h {
+    text-transform: capitalize;
+}
+body {
+    background-color: rgb(250, 242, 255); 
+    background-image: url("https://im.vsco.co/aws-us-west-2/38d0b0/47966472/5ca6ffb055abdc5726ac924a/vsco5ca6ffb3194dc.jpg?w=412&dpr=2.625");
+    background-repeat: round;
+    
+      }
+.leo {
+    text-align: center;
+}
