@@ -43,11 +43,15 @@ div {
 .shows > li {
     border-top: 1px solid black 
 }
-.seasons li:last-of-type::after {
-    content: "*";
-}
-.seasons::after {
+
+#game-of-thrones .seasons::after {
+    content: "*Final Season";
     font-size: 0.7rem;
     color: #999;
-    content: '*Final Season';
+}
+#game-of-thrones .seasons ul li:last-child::after {
+    content: "*";
+}
+header > nav > ul > li.selected > a {
+    color: black;
 }
