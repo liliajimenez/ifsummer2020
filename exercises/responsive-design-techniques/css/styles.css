@@ -35,7 +35,7 @@ body {
     display: grid;
     padding-left: 0;
     width: 100%;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: 1rem;
@@ -52,13 +52,13 @@ body {
     margin: 10%;
 }
 @media (min-width:480px) {
-    #stretchable-grid-items li {
-        width: 50%;
+    #stretchable-grid-items ul {
+        grid-template-columns: 1fr 1fr;
     }
 }
 @media (min-width:640px) {
-    #stretchable-grid-items li {
-        width: 25%;
+    #stretchable-grid-items ul {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
 
