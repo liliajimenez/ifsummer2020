@@ -1,0 +1,140 @@
+
+body {
+    max-width: 960px;
+    min-width: 320px;
+    margin-left: auto;
+    width: 100%;
+    margin-right: auto;
+    font-family: Yrsa, serif;
+    font-weight: 400;
+
+}
+img {
+    border: 4px solid darkred;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 10px;
+
+}
+html {
+    background-color: rgb(255, 243, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+@media (min-width: 640px) {
+    section {
+        display:flex;
+    }
+    
+}
+h3 {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(191, 122, 122);
+    background-color: rgb(133, 197, 138);
+    border-radius: 10px;
+    
+    
+}
+h2 {
+    font-style: italic;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: rgb(191, 122, 122);
+    text-align: center;
+
+}
+.horchata {
+    font-size: 65px;
+    font-family: rig-solid-bold-halftone, sans-serif;
+    text-align: center;
+    font-weight:700;
+    font-style: normal;
+}
+footer {
+  font-size: 18px;  
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+ width: 100%;
+ text-align: center;
+}
+hr {
+    margin-left: 14px;
+    height: 2px;
+    background-color:rgb(133, 197, 138);
+    border: none;
+}
+div {
+    font-size: 20px;
+}
+h1 {
+    font-family: rig-solid-bold-halftone, sans-serif;
+    text-align: center;
+    font-weight:900;
+    font-style: normal;
+    margin-bottom: 5px;
+    color: rgb(191, 122, 122);
+}
+
+.ingredients {
+    margin-right: 50px;
+    line-height: normal;
+}
+.instructions {
+    line-height: normal;
+    list-style-type: none;
+    /* padding-left: 60px; */
+    padding-right: 40px;
+}
+.box {
+    text-align: left;
+}
+li {
+    list-style-type: none;
+}
+section {
+    background-color:   rgb(235, 209, 209);
+    ;
+    border-radius: 10px;
+}
+.box {
+    text-align: left;
+    padding-left: 35px;
+}
+.boxx {
+    text-align: center;
+    padding-left: 45px;
+}
+.flower {
+    width: 35%;
+   margin-top: 25px;
+   border: none;
+   margin-bottom: 25px;
+   margin-left: 20px;
+   margin-right: 20px;
+
+
+}
+.info {
+    /* background-color: rgb(133, 197, 138); */
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+h5 {
+    font-family: Yrsa, serif;
+    font-weight:900;
+    font-size: 35px;
+    font-style: normal;
+    font-style: italic;
+    color: rgb(191, 122, 122); 
+    padding-left: 35px;
+    margin-top:  30px;
+}
+b {
+    color: rgb(191, 122, 122);
+}
