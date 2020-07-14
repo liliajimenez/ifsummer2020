@@ -133,8 +133,29 @@ h5 {
     font-style: italic;
     color: rgb(191, 122, 122); 
     padding-left: 35px;
-    margin-top:  30px;
+    margin-top:  20px;
 }
 b {
     color: rgb(191, 122, 122);
+}
+@media (max-width: 640px) {
+    .flower {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 20PX;
+
+    }
+    h5 {
+        margin-bottom: 10px;
+        padding-top: 25px;
+    }  
+    .ingredients {
+        padding-top: 10px;
+    }
+        .instructions {
+            padding-bottom: 10px;
+        }
+    }
 }
