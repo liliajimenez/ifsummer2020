@@ -1,0 +1,518 @@
+#pageone .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 130px;
+    z-index:999;
+}
+#pageone .home {
+    color: yellow; 
+}
+#pageone div {
+    display: block;
+}
+#pageone {
+    background-image: url(https://www.britishbattles.com/wp-content/uploads/2017/12/11-Fetching-away-the-waggons-Isandlwana.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#pageone h1 {
+    color: white;
+font-family: aktiv-grotesk-thin, sans-serif;
+font-weight: 200;
+letter-spacing: 2px;
+font-style: normal;
+padding-left: 30px;
+}
+#pageone span {
+    color: yellow;
+    font-weight: 700;
+}
+#pageone hr {
+    margin-left: 30px;
+    margin-right:1320px;
+    margin-top: -10px;
+}
+a {
+    color: rgb(184, 184, 184);
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+    margin: 0 25px;
+    text-decoration: none;
+}
+nav {
+    margin-top: 15px;
+    display: flex;
+    width: 100px;
+    padding-left: 30px;
+    
+}
+#pagetwo .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    z-index:999;
+}
+#pagetwo .home {
+    color: rgb(184, 184, 184);
+}
+#pagetwo .forces {
+    color: yellow;
+}
+#pagetwo h1 {
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 60px;
+letter-spacing: 2px;
+font-style: italic;
+padding-left: 80px;
+padding-top: 50px;
+}
+#pagetwo span {
+    font-weight: 700;
+    font-size: 80px ;
+    letter-spacing: 2px;
+}
+#pagetwo .theforces {
+    display: flex;
+    background-color: yellow;
+    padding-top: 180px;
+    margin-left: 400px;
+    margin-right: 0;
+}
+#pagetwo .names {
+    color: black;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    margin-left: 205px;
+    text-align: right;
+    
+}
+#pagetwo .zulumen {
+    position: relative;
+    bottom: 200px;
+    left: 985px;
+}
+#pagetwo .britmen {
+    position: relative;
+    bottom: 200px;
+    left: 790px;
+}
+#pagetwo .britishforces {
+    color: white;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 45px;
+    padding-left: 80px;
+    margin-top: -80px;
+    background-color: rgb(167, 167, 167);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-right: 850px;
+    margin-bottom: 40px;
+}
+#pagetwo .firstlist {
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 24px;
+}
+#pagetwo h4 {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+#pagetwo .column1 {
+    margin-right: 60px;
+}
+#pagetwo .bravepic {
+    max-width:60%;
+    max-height:60%;
+    margin-left: 40px;
+}
+#pagetwo .zuluforces {
+    color: white;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 45px;
+    padding-left: 80px;
+    margin-top: 70px;
+    background-color: rgb(167, 167, 167);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-right: 850px;
+    margin-bottom: 40px; 
+}
+#pagetwo .column3 {
+    margin-right: 80px;
+    margin-left: 80px;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 24px;
+}
+#pagetwo .secondlist {
+    display: flex;
+}
+#pagetwo .group {
+    max-width:76%;
+    max-height:76%;
+}
+#pagetwo footer {
+    background-color: yellow;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 60px;
+}
+#pagetwo .forces2 {
+    color: black;
+}
+#pagethree .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    z-index:999;
+}
+#pagethree .prelude {
+    color: yellow;
+}
+#pagethree h1 {
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 60px;
+letter-spacing: 2px;
+font-style: italic;
+padding-left: 80px;
+padding-top: 50px;
+}
+#pagethree span {
+    font-weight: 700;
+    font-size: 80px ;
+    letter-spacing: 2px;
+}
+#pagethree .map {
+    max-width: 80%;
+    max-height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: -200px;
+}
+#pagethree h5 {
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    margin-left: 650px;
+    margin-right: 100px;
+    bottom: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+}
+#pagethree p {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 27px;
+    padding-top: -100px;
+}
+#pagethree .flag {
+    display: flex;
+    margin-right: 80px;
+}
+#pagethree .picflag {
+    width: 100%;
+
+}
+#pagethree figcaption {
+        background-color: rgb(255, 255, 192);
+        color: rgb(142, 142, 142);
+        padding: 7px;
+        font-size: 16px;
+        font-family: kepler-std, serif;
+        font-weight: 400;
+}
+#pagethree figure {
+    width: 340%;
+    margin-left: 10px;
+}
+#pagethree h4 {
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 30px;
+    background-color: yellow;
+    font-style: italic;
+    text-align: left;
+    padding: 15px;
+    margin-right: 700px;
+    padding-left: 80px;
+}
+#pagethree .africamap {
+display: flex;
+margin-left: 80px;
+margin-right: 80px;
+}
+#pagethree footer {
+    background-color: yellow;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+#pagethree .prelude2 {
+    color: black;
+}
+#pagefour .header {
+    color: yellow;
+}
+#pagefour .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    z-index:999;
+}
+#pagefour h1{
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 60px;
+letter-spacing: 2px;
+font-style: italic;
+padding-left: 80px;
+padding-top: 50px;
+
+}
+#pagefour span {
+    font-weight: 700;
+    font-size: 80px ;
+    letter-spacing: 2px;
+}
+#pagefour .battlepic {
+   max-width: 80%;
+    max-height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 10px;
+}
+#pagefour figcaption {
+    text-align: center;
+    background-color: rgb(255, 255, 192);
+    color: rgb(142, 142, 142);
+    margin-left: 80px;
+    margin-right: 80px;
+        padding: 7px;
+        font-size: 16px;
+        font-family: kepler-std, serif;
+        font-weight: 400;
+        margin-left: 200px;
+        margin-right: 200px;
+        /* padding-top: 1%;
+        padding-bottom: 1%; */
+}
+#pagefour p {
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 27px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+#pagefour h3 {
+    margin-left: 12%;
+    margin-right: 12%;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 30px;
+    background-color: rgb(255, 255, 192);
+    color: rgb(142, 142, 142);
+    font-style: italic;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#pagefour img {
+    width: 87%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+#pagefour .land {
+    text-align: center;
+    background-color: rgb(255, 255, 192);
+    color: rgb(142, 142, 142);
+        font-size: 16px;
+        font-family: kepler-std, serif;
+        font-weight: 400;
+        margin-left: 40%;
+        margin-right: 20%;
+        font-style: italic;
+}
+#pagefour footer {
+    background-color: yellow;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 60px;
+}
+#pagefour .battle2 {
+    color: black;
+}
+#pagefive .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    z-index:999;
+}
+#pagefive .header {
+    color: yellow;
+}
+#pagefive h1{
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 60px;
+letter-spacing: 2px;
+font-style: italic;
+padding-left: 6%;
+padding-top: 50px;
+
+}
+#pagefive img {
+max-width: 80%;
+max-height: 80%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+margin-bottom: 10px;
+}
+#pagefive figcaption {
+    text-align: center;
+    background-color: rgb(255, 255, 192);
+    color: rgb(142, 142, 142);
+    margin-left: 80px;
+    margin-right: 80px;
+        padding: 7px;
+        font-size: 16px;
+        font-family: kepler-std, serif;
+        font-weight: 400;
+        margin-left: 200px;
+        margin-right: 200px;
+}
+#pagefive p {
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 27px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#pagefive .stone {
+    display: flex;
+}
+#pagefive .picstone {
+max-height: 25%;
+max-width: 25%;
+margin-right: 6%;
+margin-left: 0%;
+}
+#pagefive .garnet {
+    max-width: 25%;
+    max-height: 25%;
+    border:  3px solid yellow;
+}
+#pagefive .field {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+#pagefive .black {
+    color: black;
+}
+#pagefive footer {
+    background-color: yellow;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 60px;
+}
+#pagesix .header {
+    color: yellow;
+}
+#pagesix .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    z-index:999;
+}
+#pagesix  {
+    background-color:  rgb(255, 255, 192);
+}
+#pagesix h1{
+    color: black;
+    font-family: kepler-std, serif;
+    font-weight: 400;
+    font-size: 60px;
+letter-spacing: 2px;
+font-style: italic;
+padding-left: 6%;
+padding-top: 50px;
+}
+#pagesix h2 {
+    margin-left: 12%;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+}
+#pagesix .tag {
+    margin-left: 12%;
+    font-family: aktiv-grotesk, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(82, 82, 82);
+}
